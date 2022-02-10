@@ -23,6 +23,15 @@
   <a href="https://www.spoj.com/users/<>"> <img height="26px" src="cp/cp-spoj.svg"> </a>
 </p>
 
+<p align="center"> <b>¤ Organizations ¤</b></p>
+<p align="center">
+  <img height="26px" src="org/org-facebook.svg">
+  <img height="26px" src="org/org-janestreet.svg">
+  <img height="26px" src="org/org-mila.svg">
+  <img height="26px" src="org/org-jump.svg">
+  <img height="26px" src="org/org-deepmind.svg">
+</p>
+
 <p align="center">
   <img height="52px" src="https://img.pokemondb.net/sprites/heartgold-soulsilver/shiny/snorlax.png">
 </p>
