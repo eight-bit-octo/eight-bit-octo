@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://atcoder.jp/users/eight_bit_octo"> <img height="26px" src="cp/cp-atcoder.svg"> </a>
   <a href="https://leetcode.com/eight_bit_octo"> <img height="26px" src="cp/cp-leetcode.svg"> </a>
-  <a href="https://codeforces.com/profile/<>"> <img height="26px" src="cp/cp-codeforces.svg"> </a>
+  <a href="https://codeforces.com/profile/eight_bit_octo"> <img height="26px" src="cp/cp-codeforces.svg"> </a>
   <a href="https://projecteuler.net/profile/<>.png"> <img height="26px" src="cp/cp-projecteuler.svg"> </a>
   <a href="https://www.topcoder.com/members/<>"> <img height="26px" src="cp/cp-topcoder.svg"> </a>
   <a href="https://open.kattis.com/users/<>"> <img height="26px" src="cp/cp-kattis.svg"> </a>
