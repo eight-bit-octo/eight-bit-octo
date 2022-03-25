@@ -19,7 +19,7 @@
   <a href="https://open.kattis.com/users/eight-bit-octo"> <img height="26px" src="cp/cp-kattis.svg"> </a>
   <a href="https://auth.geeksforgeeks.org/user/<>"> <img height="26px" src="cp/cp-geeksforgeeks.svg"> </a>
   <a href="https://www.codechef.com/users/eight_bit_octo"> <img height="26px" src="cp/cp-codechef.svg"> </a>
-  <a href="https://binarysearch.com/@/<>"> <img height="26px" src="cp/cp-binarysearch.svg"> </a>
+  <a href="https://binarysearch.com/@/eight_bit_octo"> <img height="26px" src="cp/cp-binarysearch.svg"> </a>
   <a href="https://www.spoj.com/users/<>"> <img height="26px" src="cp/cp-spoj.svg"> </a>
 </p>
 
