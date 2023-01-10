@@ -1,13 +1,27 @@
-<p align="center"> <b>¤ Languages ¤</b></p>
-<p align="center">
-  <img height="26px" src="lang/lang-rust.svg">
-  <img height="26px" src="lang/lang-javascript.svg">
-  <img height="26px" src="lang/lang-cpp.svg">
-  <img height="26px" src="lang/lang-python.svg">
-  <img height="26px" src="lang/lang-haskell.svg">
-  <img height="26px" src="lang/lang-typescript.svg">
-  <img height="26px" src="lang/lang-golang.svg">
-</p>
+• Junior Quant [@XTX Markets](https://www.xtxmarkets.com/)            
+
+**Education** <br>
+• Master's Degree - Computer Science [@ETH Zurich](https://ethz.ch/en.html/)
+<br>
+• Bachelor's Degree - Mathematics [@University of Warwick](https://warwick.ac.uk/)
+
+**Experience** <br>
+• Algorithm Engineer Intern [@Huawei](https://www.huawei.com/en/)
+<br>
+• Undergraduate Researcher [@EPFL](https://www.polytechnique.edu/en/)
+<br>
+• Undergraduate Researcher [@TU-Delft](https://www.tudelft.nl/en/)
+<br>
+• Game Mathematician Intern [@Entain](https://entaingroup.com/)
+
+**Volunteering** <br>
+• Teaching Assistant [@University of Warwick](https://warwick.ac.uk/)
+<br>
+• Game Data Miner [@Unite-DB](https://unite-db.com/) and [@OP.gg](https://www.op.gg/)
+
+#### Languages <img height="24px" src="lang/lang-rust.svg" align="center"> <img height="24px" src="lang/lang-javascript.svg" align="center"> <img height="24px" src="lang/lang-cpp.svg" align="center"> <img height="24px" src="lang/lang-python.svg" align="center"> <img height="24px" src="lang/lang-haskell.svg" align="center"> <img height="24px" src="lang/lang-typescript.svg" align="center"> <img height="24px" src="lang/lang-golang.svg" align="center">
+
+#### Languages <img height="23px" src="lang/lang-rust.svg" align="center"> <img height="23px" src="lang/lang-javascript.svg" align="center"> <img height="23px" src="lang/lang-cpp.svg" align="center"> <img height="23px" src="lang/lang-python.svg" align="center"> <img height="23px" src="lang/lang-haskell.svg" align="center"> <img height="23px" src="lang/lang-typescript.svg" align="center"> <img height="23px" src="lang/lang-golang.svg" align="center">
 
 <p align="center"> <b>¤ Competitive Programming ¤</b></p>
 <p align="center">
@@ -32,9 +46,10 @@
   <img height="26px" src="org/org-deepmind.svg">
 </p>
 
-<p align="center"> <b>¤ Socials ¤</b></p>
-<p align="center">
-  <img height="26px" src="soc/soc-acm.svg">
+#### Socials <img height="37px" src="soc/soc-acm.svg" align="center">
+
+<p align="center"> <b> &#128474;¤ Socials ¤</b>
+  <img height="10px" src="soc/soc-acm.svg">
   <img height="26px" src="soc/soc-website.svg">
   <img height="26px" src="soc/soc-stackoverflow.svg"><img height="26px" src="soc/soc-jovianai.svg">
   <img height="26px" src="soc/soc-youtube.svg">
